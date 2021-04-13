@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_subtract_numbers">
+    <title>How to subtract numbers</title>
+    <shortdesc>Here you will find instructions about using the subtraction feature of JPS Calculator
+        app. </shortdesc>
+    <taskbody>
+        <prereq id="prereq_egc_qyx_gpb">
+            <p>To successfully subtract numbers, you must know what is subtraction. </p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the minus (-) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number. </cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (=) button. </cmd>
+            </step>
+        </steps>
+        <result id="result_ixc_xyx_gpb">
+            <p>The result from the subtraction is displayed.</p>
+        </result>
+        <example>
+            <p>You want to subtract 2 from 3. The equation will look like: 3-2=1. You enter 3. Press
+                minus. Enter 2. Press equals. </p>
+            <p>The result 1 appears on the screen.</p>
+        </example>
+    </taskbody>
+</task>
